@@ -1,0 +1,1 @@
+Descripción funcional del producto
