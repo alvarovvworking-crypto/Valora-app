@@ -36,5 +36,5 @@ La herramienta permite calcular precios con criterio, generar presupuestos y con
 
 ## Contacto
 
-Proyecto en desarrollo por [tu nombre].  
-Si eres freelancer y quieres dar feedback: [tu email o perfil]
+Proyecto en desarrollo por Álvaro Villaseñor   
+Pagina Notion Proyecto Valora HQ: https://www.notion.so/Valora-HQ-2eefc346306980d48216c6f7a0e83648?source=copy_link
